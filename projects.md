@@ -8,9 +8,9 @@ permalink: /projects/
 **Role:** Fullstack Web Developer + Product Strategist  
 - Part of a 4-person team that won first place at the **Finhub Blockchain Hackathon**.  
 - Developed a blockchain-related web application.  
-- Tech stack: **Frontend:** ReactJS + JavaScript, **Backend:** Python + FastAPI  
+- **Tech stack:** Frontend: ReactJS + JavaScript, Backend: Python + FastAPI  
 
-![Team Collaboration / Blockchain](assets/images/blockchain_illustration.jpg)
+![Team Collaboration / Blockchain](assets/images/blockchain_illustration.jpg){: style="width:300px;" }
 
 ---
 
@@ -19,7 +19,7 @@ permalink: /projects/
 - Built a robot vehicle that autonomously navigates a maze using an STM32 board.  
 - Implemented a **line-following algorithm** + **modified Dijkstra's algorithm**.  
 
-![Line-Following Robot / Maze](assets/images/maze_robot_illustration.jpg)
+![Line-Following Robot / Maze](assets/images/maze_robot_illustration.jpg){: style="width:300px;" }
 
 ---
 
@@ -27,5 +27,5 @@ permalink: /projects/
 **Role:** Software Developer  
 - Developed a Python desktop app using **Tkinter** to manage small business accounting.  
 
-![Finance / Accounting App](assets/images/accounting_app_illustration.png)
+![Finance / Accounting App](assets/images/accounting_app_illustration.png){: style="width:300px;" }
 
