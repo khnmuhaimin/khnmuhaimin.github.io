@@ -16,3 +16,11 @@ header_pages:
   - contact.md
 
 markdown: kramdown
+
+# Footer info
+footer: >
+  © 2025 Muhaimin Khan | 
+  📧 [Email](mailto:khnmuhaimin@gmail.com) | 
+  🔗 [LinkedIn](https://linkedin.com/in/muhaimin-khan-b825a425a) | 
+  💼 [CV](assets/CV.pdf) <!-- placeholder for later -->
+

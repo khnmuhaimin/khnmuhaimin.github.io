@@ -1,15 +1,13 @@
 ---
 layout: page
-title: "Experience"
+title: Experience
 permalink: /experience/
 ---
 
-## Internship – Software Engineer Intern  
-*Company Name* (2024)  
-- Worked on backend services in Python.  
-- Contributed to improving system performance by optimizing APIs.
+## Software Developer Intern
+*Jan 2023 – Sept 2023* | Famba Technologies | Small Team (5 members)  
+- Worked primarily on backend development using **Node.js**, **Express.js**, and **MongoDB**.  
+- Contributed to building and maintaining APIs and database interactions.  
+- Assisted in front-end development using **React** and **React Native**.  
+- Collaborated closely with team members to deliver features on schedule.
 
-## Teaching Assistant – Computer Engineering Department  
-*University* (2023)  
-- Assisted in Digital Systems course.  
-- Held weekly office hours and supported lab sessions.
