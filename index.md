@@ -23,4 +23,4 @@ Welcome to my e-portfolio! Here you’ll find my projects, experience, and skill
 - [Experience](/experience/)
 - [Education](/education/)
 - [Contact](/contact/)
-
+- [Download CV](assets/CV.pdf)
