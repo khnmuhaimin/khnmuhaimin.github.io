@@ -5,9 +5,11 @@ title: Welcome
 
 # Hi, I'm Muhaimin Khan
 
-**Computer Engineering Student | Aspiring Software Engineer**  
+**Computer Engineering Student | Aspiring Software Engineer**
 
-Welcome to my personal e-portfolio. Here you can find my projects, skills, experience, and ways to get in touch.
+Welcome to my e-portfolio! Here you’ll find my projects, experience, and skills, as well as ways to get in touch. I enjoy building software and embedded systems that solve real-world problems.  
+
+💡 **Open to internships, collaborations, and project opportunities—feel free to reach out!**
 
 ---
 
@@ -17,6 +19,6 @@ Welcome to my personal e-portfolio. Here you can find my projects, skills, exper
 - [Projects](/projects/)
 - [Skills](/skills/)
 - [Experience](/experience/)
+- [Education](/education/)
 - [Contact](/contact/)
-- [Download CV](assets/CV.pdf) <!-- replace with actual CV file path -->
 
