@@ -3,24 +3,16 @@ description: "Final year Computer Engineering student. Personal e-portfolio."
 author: "Muhaimin Khan"
 email: "khnmuhaimin@gmail.com"
 
-# GitHub Pages URL
 url: "https://khnmuhaimin.github.io"
 
-# Theme
 theme: minima
 
 # Navigation structure
-nav:
-  - title: "About"
-    url: /about/
-  - title: "Projects"
-    url: /projects/
-  - title: "Experience"
-    url: /experience/
-  - title: "Skills"
-    url: /skills/
-  - title: "Contact"
-    url: /contact/
+header_pages:
+  - about.md
+  - projects.md
+  - experience.md
+  - skills.md
+  - contact.md
 
-# Build settings
 markdown: kramdown
