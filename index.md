@@ -3,6 +3,8 @@ layout: home
 title: Welcome
 ---
 
+![Profile Picture](/assets/images/profile_picture.jpg){: style="width:150px; border-radius:50%;" }
+
 # Hi, I'm Muhaimin Khan
 
 **Computer Engineering Student**
