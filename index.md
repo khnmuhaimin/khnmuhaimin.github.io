@@ -5,7 +5,7 @@ title: Welcome
 
 # Hi, I'm Muhaimin Khan
 
-**Computer Engineering Student | Aspiring Software Engineer**
+**Computer Engineering Student**
 
 Welcome to my e-portfolio! Here you’ll find my projects, experience, and skills, as well as ways to get in touch. I enjoy building software and embedded systems that solve real-world problems.  
 
